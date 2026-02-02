@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.buttons {
+    position: relative;
+    margin-top: 20px;
+}
+
+#noButton {
+    position: absolute;
+}
